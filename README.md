@@ -1,7 +1,7 @@
 We have used C# and .Net(Visual Studio 2020) for GUI.
 For database we have used Microsoft SQL Server Management Studio.
 
-This are the steps for running out project.
+Theseare the steps for running out project.
 
 For SQL server link is https://aka.ms/ssmsfullsetup
 
