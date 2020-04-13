@@ -9,4 +9,4 @@ For GUI first download Visual Studio and then you have to download .NET desktop 
 
 Now I have provided sql files you have to run that in SSMS. You have to make necessary changes in path.
 
-Now run application which you will find in extracted file.
+Now downlaod the .rar file and extract it and then run application which you will find in extracted file.
